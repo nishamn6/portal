@@ -4,6 +4,7 @@ import { Chart as ChartJS } from 'chart.js/auto'
 import { Chart } from 'react-chartjs-2';
 //import { Plugin } from "chart.js";
 
+
  
 const BarChart = (props) => {
 const {weather}= props;
