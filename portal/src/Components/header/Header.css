@@ -1,0 +1,22 @@
+.header{
+    margin-top: 60px;
+
+}
+.headerImg{
+  width: 1050px;  
+  align-items: center;
+  margin-left: 60px;
+
+  
+}
+.headerTitle{
+    position: absolute;
+    top: 30%;
+    margin-bottom: 10%;
+    bottom: 20%;
+    font-size: 60px;
+    margin-left: 43%;
+    color: rgb(97, 4, 4);
+    font-family: 'Lora',serif; 
+
+}
