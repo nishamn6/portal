@@ -14,6 +14,7 @@ const WeatherInfoComponent = (props) => {
         </div>
     );
 }
+
 const WeatherInfo = (props) => {
     const {weather}=props;
     return(
